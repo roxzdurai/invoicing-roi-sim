@@ -23,32 +23,3 @@ Users can input their business parameters and instantly see results showing how 
 ✅ MongoDB-backed Data Persistence  
 ✅ Bias Factor to ensure positive ROI  
 ✅ Responsive React UI
-
----
-## Folder Structure 
-invoicing-roi-sim/
-│
-├── backend/
-│   ├── server.js
-│   ├── config/db.js
-│   ├── models/
-│   │   ├── Scenario.js
-│   │   └── Lead.js
-│   ├── routes/
-│   │   ├── simulation.js
-│   │   ├── scenarios.js
-│   │   └── report.js
-│   └── utils/calculations.js
-│
-├── frontend/
-│   ├── src/
-│   │   ├── App.jsx
-│   │   ├── api.js
-│   │   ├── main.jsx
-│   │   ├── styles.css
-│   │   └── assets/
-│   ├── index.html
-│   └── vite.config.js
-│
-└── README.md
-
